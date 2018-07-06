@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 29 13:07:31 PET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0163-ad15-68e8-000092707128 
+on database directory /home/oliver/recommender/iphyton/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@736f7816 
+Loaded from file:/home/oliver/spark-2.3.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/home/oliver/recommender/iphyton
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-127-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

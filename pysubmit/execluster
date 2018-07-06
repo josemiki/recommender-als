@@ -1,0 +1,1 @@
+$SPARK_HOME/bin/spark-submit --master spark://20.0.9.10:7077 --executor-memory 2G run.py 

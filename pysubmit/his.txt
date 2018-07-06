@@ -1,0 +1,39 @@
+There are 20000263 recommendations in the complete dataset
+For testing data the RMSE is 0.818610710612
+There are 27278 movies in the complete dataset
+New user ratings: [(0, 260, 9), (0, 1, 8), (0, 16, 7), (0, 25, 8), (0, 32, 9), (0, 335, 4), (0, 379, 3), (0, 296, 7), (0, 858, 10), (0, 50, 8)]
+New model trained in 57.955 seconds
+New user unrated predictions in 0.215 seconds
+New user recommendations in 0.04 seconds
+TOP user recommendations in 8.217 seconds
+TOP recommended movies (with more than 25 reviews):
+(u'"Civil War', 8.612976843923652, 256)
+(u'"Godfather: Part II', 8.602065481485374, 27398)
+(u'"Century of the Self', 8.44359899600349, 43)
+(u'Voices from the List (2004)', 8.362907216154985, 30)
+(u'Band of Brothers (2001)', 8.358017194987443, 4305)
+(u'Cosmos (1980)', 8.332277872078489, 936)
+(u'"Shawshank Redemption', 8.324623348966679, 63366)
+(u'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)', 8.29894008371381, 23220)
+(u'Seven Samurai (Shichinin no samurai) (1954)', 8.293219812450857, 11611)
+(u"It's Such a Beautiful Day (2012)", 8.292442079766884, 33)
+(u'Casablanca (1942)', 8.288204939154452, 24349)
+(u"Schindler's List (1993)", 8.274146680412684, 50054)
+(u"One Flew Over the Cuckoo's Nest (1975)", 8.257077719975841, 29932)
+(u'Paths of Glory (1957)', 8.254181942090694, 3568)
+(u'Lawrence of Arabia (1962)', 8.224192327606296, 12378)
+(u'Goodfellas (1990)', 8.20815761395561, 26406)
+(u'Chinatown (1974)', 8.204456778414746, 15310)
+(u'Generation Kill (2008)', 8.197590822054245, 52)
+(u'Rear Window (1954)', 8.164597600506239, 17449)
+(u'12 Angry Men (1957)', 8.159854385394176, 12934)
+(u'Citizen Kane (1941)', 8.1522850492157, 17774)
+(u'"Third Man', 8.147947145069462, 6565)
+(u'Apocalypse Now (1979)', 8.1473154858642, 23090)
+(u'"Boot', 8.147312254688298, 13612)
+(u'Double Indemnity (1944)', 8.144293489256913, 4909)
+New model trained in 57.955 seconds
+New user unrated predictions in 0.215 seconds
+New user recommendations in 0.04 seconds
+TOP user recommendations in 8.217 seconds
+All Training with 20M data in 218.549 seconds

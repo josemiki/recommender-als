@@ -1,0 +1,39 @@
+There are 20000263 recommendations in the complete dataset
+For testing data the RMSE is 0.80505638988
+There are 27278 movies in the complete dataset
+New user ratings: [(0, 260, 9), (0, 1, 8), (0, 16, 7), (0, 25, 8), (0, 32, 9), (0, 335, 4), (0, 379, 3), (0, 296, 7), (0, 858, 10), (0, 50, 8)]
+New model trained in 45.091 seconds
+New user unrated predictions in 0.079 seconds
+New user recommendations in 0.031 seconds
+TOP user recommendations in 5.782 seconds
+TOP recommended movies (with more than 25 reviews):
+(u'Frozen Planet (2011)', 8.72060354810103, 31)
+(u'Cosmos (1980)', 8.496821087181962, 936)
+(u"It's Such a Beautiful Day (2012)", 8.486722869960511, 33)
+(u'"Civil War', 8.434872840737338, 256)
+(u'"Godfather: Part II', 8.407415941252014, 27398)
+(u'"Shawshank Redemption', 8.378036829743364, 63366)
+(u'Generation Kill (2008)', 8.371936248008687, 52)
+(u'Band of Brothers (2001)', 8.338270631201555, 4305)
+(u"Schindler's List (1993)", 8.335968437798128, 50054)
+(u'Star Wars: Episode V - The Empire Strikes Back (1980)', 8.310461104021424, 45313)
+(u'Jazz (2001)', 8.290018638317736, 25)
+(u'"Lord of the Rings: The Fellowship of the Ring', 8.236786763577886, 37553)
+(u"One Flew Over the Cuckoo's Nest (1975)", 8.236285808626715, 29932)
+(u'Seven Samurai (Shichinin no samurai) (1954)', 8.212098457091052, 11611)
+(u'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)', 8.194349499133134, 23220)
+(u'"Lord of the Rings: The Return of the King', 8.19127362906655, 31577)
+(u'"Two Escobars', 8.182768321789473, 41)
+(u'State of Play (2003)', 8.16419995887819, 27)
+(u'Dylan Moran Live: What It Is (2009)', 8.147758670390507, 38)
+(u'Hearts and Minds (1974)', 8.139045781506265, 74)
+(u'Casablanca (1942)', 8.126625359193245, 24349)
+(u'"Lord of the Rings: The Two Towers', 8.121498944840699, 33947)
+(u'City of God (Cidade de Deus) (2002)', 8.113637325798356, 12937)
+(u'12 Angry Men (1957)', 8.109432864000288, 12934)
+(u'Presto (2008)', 8.08526787768431, 168)
+New model trained in 45.091 seconds
+New user unrated predictions in 0.079 seconds
+New user recommendations in 0.031 seconds
+TOP user recommendations in 5.782 seconds
+All Training with 20M data in 186.038 seconds
